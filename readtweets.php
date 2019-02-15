@@ -1,5 +1,4 @@
 <?php
-
   class twitterAPI {
     var $oauth_access_token;
     var $oauth_access_token_secret;
